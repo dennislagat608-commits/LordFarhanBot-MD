@@ -1,7 +1,7 @@
 const settings = {
-  packname: '🌑༒𓆩『𝕃𝕆ℝ𝔻 𝔽𝔸ℝℍ𝔸ℕ 𝕄𝔻』𓆪༒☠️',
-  author: '🌑༒ 𝕷𝖔𝖗𝖉 𝕱𝖆𝖗𝖍𝖆𝖓 ༒🌑',
-  botName: "🌑༒𓆩『𝕃𝕆ℝ𝔻 𝔽𝔸ℝℍ𝔸ℕ 𝕄𝔻』𓆪༒☠️",
+  packname: 'DARK TECH',
+  author: 'DARK TECH',
+  botName: "DENOO <DARK TECH>",
   botOwner: '꧁𒁂𝕄ɹلﮩﮩـ༒ﮩﮩـ+｡DENOO𒁂꧂',
   ownerNumber: '254726040008',
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
